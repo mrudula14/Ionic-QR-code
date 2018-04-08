@@ -1,6 +1,6 @@
 {
-  "name": "blank",
-  "app_id": "bd097d3c",
+  "name": "Ionic-QR-code",
+  "app_id": "b90c9ff3",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
